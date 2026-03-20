@@ -1,0 +1,17 @@
+{
+  "name": "AeroForm Pro - Sheet Metal Bending Advisor",
+  "short_name": "AeroForm Pro",
+  "description": "Free aerospace-grade sheet metal bending calculator. All metals, die/punch selection, AI image analysis.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#f59e0b",
+  "orientation": "any",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"maskable any"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"maskable any"}
+  ],
+  "categories": ["productivity","utilities","engineering"],
+  "lang": "en",
+  "scope": "/"
+}
